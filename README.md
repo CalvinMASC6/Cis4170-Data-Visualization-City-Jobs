@@ -6,3 +6,5 @@ The code produces assistant visuals for a discussion on the recruitment process,
 This was a live presented assignment so there is no script to attach that would enhance understandability.
 
 If you wish to use the code just be aware of the license attached.
+
+The data was found here: https://data.cityofnewyork.us/City-Government/Jobs-NYC-Postings/kpav-sd4t/about_data
